@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isadoramuller
-- 👀 I’m interested in learning several stuff #lifelong learning
+- 👀 I’m interested in learning several stuff #lifelonglearner
 - 🌱 I’m currently learning #datascience
 
 
